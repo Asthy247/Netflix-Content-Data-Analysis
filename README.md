@@ -157,7 +157,7 @@ Identify and target new markets with high growth potential.
 
 Localize content and marketing strategies to cater to different cultural preferences.
 
-**Conclusion**
+# Conclusion
 
 This project has provided valuable insights into the Netflix dataset, revealing trends in content consumption, user preferences, 
 
